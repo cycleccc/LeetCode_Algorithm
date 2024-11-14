@@ -4,6 +4,8 @@
  * [1] 两数之和
  */
 
+// 考点：哈希表
+
 // @lc code=start
 function twoSum(nums: number[], target: number): number[] {
     const hashMap = new Map();
